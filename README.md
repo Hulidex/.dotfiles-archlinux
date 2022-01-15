@@ -2,6 +2,8 @@
 
 # Introduction
 
+> **WARNING** this repository is a work in progress
+
 Keys to understand the different components that I'm using in my daily basis
 with Arch Linux.
 
@@ -63,3 +65,8 @@ to query available icons.
 # Swaylock
 
 # Swayidle
+
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/22649229/149640550-7713c2b5-4209-45a2-b589-77ed4e0ba471.png)
+
