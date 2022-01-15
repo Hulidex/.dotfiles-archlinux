@@ -1,0 +1,35 @@
+{
+    "window.zoomLevel": 2,
+    "ltex.additionalRules.enablePickyRules": true,
+    "ltex.additionalRules.motherTongue": "es",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "omnisharp.enableRoslynAnalyzers": true,
+    "editor.fontFamily": "'Monofur Nerd Font','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "debug.console.fontFamily": "'Monofur Nerd Font','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.codeLensFontFamily": "'Monofur Nerd Font','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.inlayHints.fontFamily": "'Monofur Nerd Font','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "scm.inputFontFamily": "'Monofur Nerd Font','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "colorize.languages": [
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "postcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg",
+        "shellscript",
+        "json",
+        "yaml",
+        "ini",
+        "properties"
+    ],
+    "editor.fontSize": 15
+}

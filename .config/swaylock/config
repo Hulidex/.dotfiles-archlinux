@@ -1,0 +1,12 @@
+daemonize
+ignore-empty-password
+show-failed-attempts
+show-keyboard-layout
+indicator-caps-lock
+image=~/.wallpapers/archlinux-purple.png
+scaling=fit
+font=Monofur Nerd Font
+font-size=48
+indicator-radius=150
+indicator-thickness=25
+indicator-idle-visible
