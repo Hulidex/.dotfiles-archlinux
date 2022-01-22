@@ -1,8 +1,8 @@
 {
     "position": "top", 
     "height": 40,
-    "modules-left": ["sway/workspaces"],
-    "modules-right": ["pulseaudio", "network", "battery", "custom/date", "clock", "custom/power"],
+    "modules-left": ["sway/workspaces", "sway/mode"],
+    "modules-right": ["pulseaudio", "network", "battery", "custom/date", "clock", "tray", "custom/power"],
 	"sway/workspaces": {
 		"disable-scroll": true,
 		"all-outputs": true,
@@ -69,5 +69,9 @@
             "default": ["", "墳", ""]
         },
         "on-click": "pavucontrol-qt"
-    }
+    },
+	"tray":{
+		"icon-size": 21,
+		"spacing": 10
+	}
 }
