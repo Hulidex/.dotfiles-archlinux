@@ -2,7 +2,7 @@
     "position": "top", 
     "height": 40,
     "modules-left": ["sway/workspaces", "sway/mode"],
-    "modules-right": ["pulseaudio", "network", "battery", "custom/date", "clock", "tray", "custom/power"],
+    "modules-right": ["pulseaudio", "network", "battery", "custom/date", "sway/language","clock", "tray", "custom/power"],
 	"sway/workspaces": {
 		"disable-scroll": true,
 		"all-outputs": true,
@@ -70,6 +70,9 @@
         },
         "on-click": "pavucontrol-qt"
     },
+	"sway/language": {
+		"format": "{short} {variant}"
+	},
 	"tray":{
 		"icon-size": 21,
 		"spacing": 10
